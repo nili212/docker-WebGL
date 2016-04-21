@@ -10,3 +10,4 @@ RUN apt-get install -y texlive-humanities
 
 RUN apt-get install -y make
 RUN apt-get install -y git
+RUN wget http://unity3d.com/jp/get-unity/download?thank-you=update&download_nid=30128&os=Win
